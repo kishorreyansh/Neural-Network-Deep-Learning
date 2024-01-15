@@ -4,18 +4,18 @@
 # Sample input: python
 # Sample output: ntyp
 
-# str = input("Enter the input string:")
+str = input("Enter the input string:")
 
 # Delete at least 2 characters from the given string
 
-# if len(str) >= 2:
-#     str = str[:-2]
-# else:
-#     str = str[:-1]
+if len(str) >= 2:
+    str = str[:-2]
+else:
+    str = str[:-1]
 
 # Reverse the resultant string
     
-# print(str[::-1])
+print(str[::-1])
 
 
 # – Take two numbers from user and perform at least 4 arithmetic operations on them.
