@@ -1,6 +1,6 @@
 PROBLEM 1:
 
-we are pridicting the diabetes disease using the keras api
+We are pridicting the diabetes disease using the keras api
 
 from the source code we:
 
